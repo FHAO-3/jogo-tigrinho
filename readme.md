@@ -16,3 +16,4 @@ Neste projeto, vamos explorar conceitos como `lógica de programação`, `orient
 
 ### Matemática
 - Considerando que temos 5 imagens distintas em 3 colunas, a chance de obter 3 imagens iguais é `1/125`, ou seja, **a cada 125 tentativas, o jogador, em média, acerta uma vez**. Para equilibrar as probabilidades e garantir uma margem de 50% de perda e 50% de lucro, o cassino deve multiplicar o valor ganho por 125 em cada acerto.
+
